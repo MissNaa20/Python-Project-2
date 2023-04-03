@@ -1,3 +1,9 @@
+'''
+Adjetey Mary Atswei
+10953627
+BMEN
+'''
+
 import PySimpleGUI as sg
 
 
